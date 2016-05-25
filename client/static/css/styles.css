@@ -1125,6 +1125,34 @@ margin-top: 1.5em;
   width: 70%;
   height: auto;
 }
+#parktooltext h3{
+  color: white;
+  margin: 0 auto;
+}
+#parktooltext h2{
+  color: white;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+#parktooltext h4{
+  color: white;
+}
+#parktooltext p{
+  color: white;
+}
+#parktoolcourses ul{
+/*  text-align: left;*/
+  font-size: 140%;
+  text-align: center; 
+  color: white;
+}
+#parktoolcourses h3{
+color: white;
+}
+#parktoolcourses table{
+  font-size: 170%;
+  width: 100%;  
+}
 /*CLASSES section ends*/
 /* Shop Page Ends*/
 
