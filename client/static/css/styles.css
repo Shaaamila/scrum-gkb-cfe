@@ -1121,6 +1121,10 @@ text-align: center;
 display: inline-block;
 margin-top: 1.5em;
 }
+#parktooltext {
+  width: 70%;
+  height: auto;
+}
 /*CLASSES section ends*/
 /* Shop Page Ends*/
 
